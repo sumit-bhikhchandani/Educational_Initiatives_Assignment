@@ -87,7 +87,7 @@ This project simulates a Mars Rover that can navigate a grid-based terrain. The 
 - **Status Report**: "Rover is at (1, 3) facing East. No Obstacles detected."
 
 ## Code Structure
-- `mars_rover.cpp`: Contains the implementation of the Mars Rover simulation.
+- `mars_rover.ts`: Contains the implementation of the Mars Rover simulation.
 
 ## Contributing
 You can contribute by suggesting improvements or reporting issues.
