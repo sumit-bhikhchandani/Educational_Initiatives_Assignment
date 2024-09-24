@@ -55,8 +55,7 @@ Each pattern is illustrated with a simple description.
 
 ---
 
-## Conclusion
-This assignment showcases the implementation of various design patterns in software development. Each pattern serves a unique purpose and helps make the software design more efficient and maintainable. Understanding these patterns will enhance your software development skills and enable you to create better-organized code.
+
 
 # EXERCISE 2
 
