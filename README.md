@@ -89,8 +89,3 @@ This project simulates a Mars Rover that can navigate a grid-based terrain. The 
 ## Code Structure
 - `mars_rover.ts`: Contains the implementation of the Mars Rover simulation.
 
-## Contributing
-You can contribute by suggesting improvements or reporting issues.
-
-## License
-This project is licensed under the MIT License.
